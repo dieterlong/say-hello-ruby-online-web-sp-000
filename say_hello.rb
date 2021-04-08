@@ -4,4 +4,3 @@ def say_hello(name, name1 = "Hello Ruby Programmer!")
 end
 
 say_hello(dieter)
-
