@@ -2,6 +2,3 @@
 def say_hello('dieter')
   puts "Hello #{name}"
 end
-
-
-
